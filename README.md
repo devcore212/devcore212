@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm STAR 👋
 
-<!--
-**devcore212/devcore212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack / Backend Engineer  
+Python · FastAPI · Django · Node.js · PostgreSQL · Docker · Linux
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About me
+- Building scalable backend systems
+- Working with APIs, databases, and cloud services
+- Interested in clean architecture and performance
+
+## 🛠 Tech stack
+- Backend: Python, FastAPI, Django
+- Frontend: React (basic)
+- DevOps: Docker, Linux, GitHub Actions
+- Databases: PostgreSQL, MySQL
+
+## 📌 Currently
+- Improving system design skills
+- Working on personal projects
+
+📫 Contact: your@email.com
