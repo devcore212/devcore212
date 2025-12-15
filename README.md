@@ -67,6 +67,3 @@ Adaptability · Critical thinking · Continuous learning
 - Working as a **contractor**
 - Building and refining **distributed systems**
 - Improving **system design & cloud architecture**
-
-📫 **Contact**: star00212@outlook.com
-
