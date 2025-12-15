@@ -19,5 +19,3 @@ Python · FastAPI · Django · Node.js · PostgreSQL · Docker · Linux
 ## 📌 Currently
 - Improving system design skills
 - Working on personal projects
-
-📫 Contact: your@email.com
