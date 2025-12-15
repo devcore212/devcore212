@@ -1,21 +1,72 @@
 # Hi, I'm STAR 👋
 
-Full Stack / Backend Engineer  
-Python · FastAPI · Django · Node.js · PostgreSQL · Docker · Linux
+Senior Full Stack / Software Engineer  
+Contractor · Backend-oriented · Cloud-native systems
+
+Python · C#/.NET · Node.js · Java · Cloud · Distributed systems
 
 ---
 
 ## 🚀 About me
-- Building scalable backend systems
-- Working with APIs, databases, and cloud services
-- Interested in clean architecture and performance
+I build **scalable, secure backend systems** and modern cloud-native platforms.  
+Most of my work focuses on **APIs, microservices, workflows, AI-powered systems**,  
+with **occasional blockchain integrations** when they actually make sense.
 
-## 🛠 Tech stack
-- Backend: Python, FastAPI, Django
-- Frontend: React (basic)
-- DevOps: Docker, Linux, GitHub Actions
-- Databases: PostgreSQL, MySQL
+I enjoy clean architecture, reliability, and solving complex problems with simple solutions.
+
+---
+
+## 🛠 Core Tech Stack
+
+### Backend
+- **Python** (Django, Flask, FastAPI)
+- **C# / .NET** (.NET Core, ASP.NET Web API)
+- **Java** (Spring Boot)
+- **Node.js** (Express, NestJS)
+
+### Frontend
+- React, Angular, TypeScript, Next.js
+
+### Cloud & DevOps
+- **AWS** (EKS, Lambda, RDS, S3)
+- **Azure** (AKS, Key Vault, Cosmos DB, App Services)
+- **GCP** (GKE, Cloud Storage – project-based)
+- Docker, Kubernetes, Terraform, ArgoCD
+- GitHub Actions, Jenkins
+
+### Data & Messaging
+- PostgreSQL, MySQL, MongoDB, Cosmos DB
+- Kafka, Redis, MQTT
+- Event-driven & microservices architecture
+
+### Security & Compliance
+- OAuth2, OIDC, JWT
+- API security
+- GDPR & PSD2-aware systems
+
+### Observability & Reliability
+- Prometheus, Grafana, OpenTelemetry, ELK
+- CI/CD automation
+- SRE playbooks & system monitoring
+
+### AI & Emerging Tech
+- HuggingFace Transformers
+- PyTorch, TorchServe
+- Blockchain (Hyperledger Fabric – POC)
+
+---
+
+## 🤝 Soft Skills
+Problem-solving · Mentoring · Cross-functional collaboration ·  
+Agile & Scrum · Clear communication · Stakeholder management ·  
+Adaptability · Critical thinking · Continuous learning
+
+---
 
 ## 📌 Currently
-- Improving system design skills
-- Working on personal projects
+- Working as a **contractor**
+- Building and refining **distributed systems**
+- Improving **system design & cloud architecture**
+
+📫 **Contact**: star00212@outlook.com
+
