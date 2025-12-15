@@ -3,7 +3,7 @@
 Senior Full Stack / Software Engineer  
 Contractor · Backend-oriented · Cloud-native systems
 
-Python · C#/.NET · Node.js · Java · Cloud · Distributed systems
+**Python** · **Go (Golang)** · **C#/.NET** · **Node.js** · **Java** · **PHP** · **Cloud** · **Distributed systems**
 
 ---
 
@@ -20,9 +20,11 @@ I enjoy clean architecture, reliability, and solving complex problems with simpl
 
 ### Backend
 - **Python** (Django, Flask, FastAPI)
+- **Go (Golang)** (REST services, concurrent systems)
 - **C# / .NET** (.NET Core, ASP.NET Web API)
 - **Java** (Spring Boot)
 - **Node.js** (Express, NestJS)
+- **PHP** (Laravel, Symfony)
 
 ### Frontend
 - React, Angular, TypeScript, Next.js
@@ -67,3 +69,5 @@ Adaptability · Critical thinking · Continuous learning
 - Working as a **contractor**
 - Building and refining **distributed systems**
 - Improving **system design & cloud architecture**
+
+📫 **Contact**: star00212@outlook.com
